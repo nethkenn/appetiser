@@ -58,5 +58,11 @@
  
  * Run **quasar dev**
  
+**NOTE**
 
- 
+You change the calendar's month by changing the `monthYear` data on `Index.vue`
+
+  	monthYear : {
+        year : 2018,
+        month : 7
+  	}
