@@ -1,4 +1,4 @@
-![](Capture.PNG)
+![](Banner.PNG)
 # Features
 * Laravel 7
 * Vue 
